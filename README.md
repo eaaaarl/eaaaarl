@@ -59,12 +59,6 @@
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📈 Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=eaaaarl&theme=github-dark)
-
-## 📊 This week I spent my time on
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eaaaarl&theme=dark)
-
 ---
 
 <p align="center">
