@@ -13,6 +13,16 @@
 - 💼 Working with modern web technologies and frameworks
 - 🤖 Exploring machine learning and AI applications
 
+## Current Activity 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eaaaarl&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eaaaarl&theme=dark" alt="GitHub Streak" />
+</p>
+
 ## Tech Stack 🛠️
 
 ### Frontend
@@ -22,6 +32,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -38,13 +49,21 @@
 
 ### Machine Learning / AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Styling
+### Styling & UI
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📈 Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=eaaaarl&theme=github-dark)
+
+## 📊 This week I spent my time on
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eaaaarl&theme=dark)
 
 ---
 
