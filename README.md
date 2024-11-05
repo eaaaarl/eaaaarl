@@ -13,16 +13,6 @@
 - 💼 Working with modern web technologies and frameworks
 - 🤖 Exploring machine learning and AI applications
 
-## Current Activity 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eaaaarl&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eaaaarl&theme=dark" alt="GitHub Streak" />
-</p>
-
 ## Tech Stack 🛠️
 
 ### Frontend
