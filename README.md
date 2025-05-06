@@ -33,10 +33,10 @@
   <a href="https://www.facebook.com/eaaaaaarl01010" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30">
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+ <!--  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
-  </a>
-  <a href="mailto:your@email.com" target="_blank">
+  </a> -->
+  <a href="mailto:earl.ado17@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
   </a>
 </p>
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,nestjs,laravel,mongodb,postgres,prisma,tensorflow,pytorch,docker,git,vercel" width="90%" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,javascript,typescript,tailwind,vite,nodejs,expressjs,nestjs,php,laravel,mongodb,postgres,vscode,postman,prisma,docker,git,vercel" width="90%" />
   </a>
 </p>
 
