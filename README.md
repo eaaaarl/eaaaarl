@@ -1,10 +1,10 @@
-<h1 align="center"> 
-  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="50px"> 
-  Hi, I'm eaaaarl! 
-  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="50px">
-</h1>
+<img src="https://komarev.com/ghpvc/?username=eaaaarl&style=flat-square&color=blue" alt="Profile views"/>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" width="100%" height="100%">
+</p>
 
-<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Earl Dominic! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">Full Stack Developer passionate about building web applications</h3>
 
 <p align="center">
   <a href="https://github.com/eaaaarl?tab=repositories">
@@ -13,60 +13,62 @@
   <a href="https://github.com/eaaaarl?tab=followers">
     <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/eaaaarl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow"/>
   </a>
+  
+</p>
+
+<p align="center">
+  <i>💡 "Building tomorrow's solutions with today's code."</i>
+</p>
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **web applications with modern tech stacks**
+- 🌱 I'm currently learning **Python and Django** for backend development
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **React, Next.js, Node.js and TypeScript**
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.facebook.com/eaaaaaarl01010" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30">
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+  </a>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+  </a>
 </p>
 
 ## 🔧 Technologies & Tools
 
-### 🖥 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-
-### ⚙ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-
-### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
-
-### 🤖 ML/AI
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-
-### 🛠 DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eaaaarl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaaaarl&layout=compact&theme=dark&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eaaaarl&theme=dark" alt="GitHub Streak"/>
-</p>
-
-## 🚀 Latest Projects
-
-<!-- Add your project cards here using:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eaaaarl&repo=REPO_NAME)](https://github.com/eaaaarl/REPO_NAME)
--->
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,nestjs,laravel,mongodb,postgres,prisma,tensorflow,pytorch,docker,git,vercel" width="90%" />
   </a>
 </p>
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django" width="20%" />
+  </a>
+</p>
+<p align="center">
+  <em>Expanding my backend development skills with Python and Django!</em>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eaaaarl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eaaaarl&layout=compact&theme=tokyonight&langs_count=8" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eaaaarl&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<!-- End of GitHub Profile -->
