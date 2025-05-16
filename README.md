@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,html,css,react,nextjs,vue,nuxt,nodejs,mysql,postgres,docker,redux,firebase,mongodb,prisma" width="90%" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,html,css,react,nextjs,vue,nuxt,nodejs,expressjs,nextjs,laravel,mysql,postgres,docker,redux,firebase,mongodb,prisma" width="90%" />
   </a>
 </p>
 
