@@ -49,17 +49,6 @@
   </a>
 </p>
 
-## 🌱 Currently Learning
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django" width="20%" />
-  </a>
-</p>
-<p align="center">
-  <em>Expanding my backend development skills with Python and Django!</em>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
