@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
-    <img alt="https://mrousavy.com" src="./img/dino.gif" />
+    <img src="./img/dino.gif" />
   </picture>
 </a>
 
@@ -14,13 +14,10 @@
 <h3 align="center">Full Stack & Mobile Developer</h3>
 
 ## About Me
-
 - 💻 Full Stack & Mobile Developer who loves building things end-to-end
 - 📱 Into web **and** mobile — from browser to pocket
 - 🌱 Always learning, always building
 - ⚡ Fun fact: I out-run dinosaurs 🦕
-
----
 
 ## GitHub Stats
 
@@ -28,7 +25,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eaaaarl&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=eaaaarl&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
-
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=eaaaarl&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
