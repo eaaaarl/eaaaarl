@@ -10,8 +10,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=eaaaarl&label=Profile%20views&color=0e75b6&style=flat)
 
-<h1 align="center">Hey there 👋, I'm Earl Dominic Ado</h1>
-<h3 align="center">Full Stack & Mobile Developer</h3>
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        Hi! 👋 I'm Earl Dominic Ado
+      </h1>
+    </summary>
+  </ul>
+</div>
 
 ## About Me
 - 💻 Full Stack & Mobile Developer who loves building things end-to-end
