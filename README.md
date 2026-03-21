@@ -39,7 +39,7 @@
 ## Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,nestjs,python,php,laravel,dart,flutter,androidstudio,mysql,postgresql,supabase,git,github,docker&perline=15&theme=dark" width="600" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,express,nestjs,python,php,laravel,dart,flutter,androidstudio,mysql,postgresql,supabase,git,github,docker&theme=dark" width="600" />
 </p>
 
 <p align="center">
